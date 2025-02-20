@@ -1,0 +1,7 @@
+Write a program to count the total number of alphabets,digits,and special characters in string
+
+input:he*llo20@2#5
+output:
+alphabet=5
+digits=4
+special characters=3
